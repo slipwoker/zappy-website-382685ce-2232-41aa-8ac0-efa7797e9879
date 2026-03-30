@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות רובלוקס ישראל המובילה לפריטים דיגיטליים! סקינים צבעוניים, חיות חמודות ופריטים בלעדיים במחירים שלא תמצאו בשום מקום אחר. הצטרפו עכשיו!
+
+### למה אנחנו
+https://example.com/why-us
+פריטים דיגיטליים רובלוקס זול, אמין ומהיר! אנחנו מציעים מחירים שאי אפשר לעמוד בפניהם, שירות לקוחות מעולה ומשלוח דיגיטלי מיידי. גלה למה אנחנו הבחירה הראשונה של שחקני רובלוקס בישראל!
+
+### תיק עבודות
+https://example.com/showcase
+גלריית הסקינים והחיות המדהימה שלנו מחכה לך! חיות רובלוקס לקנייה, סקינים נדירים ופריטים בלעדיים שיהפכו את הדמות שלך לאגדה. בחר את הסטייל שלך עוד היום!
+
+### צור קשר
+https://example.com/contact
+יש שאלה על פריטים דיגיטליים רובלוקס? צוות המומחים שלנו זמין עבורך עכשיו! צרו קשר ותקבלו מענה מהיר, עזרה בבחירת הפריט המושלם והצעות מחיר בלעדיות. אל תחכו!
+
+### Products
+https://example.com/products
+המוצרים שלנו - רובלוקס
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - רובלוקס
+
+### Category
+https://example.com/category/:slug
+מוצרים - רובלוקס
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
